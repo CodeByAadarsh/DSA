@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Codemaniac-semantic/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/Codemaniac-semantic/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Codemaniac-semantic/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
