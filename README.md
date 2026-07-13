@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Codemaniac-semantic/DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Codemaniac-semantic/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
