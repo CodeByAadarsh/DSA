@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Codemaniac-semantic/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Codemaniac-semantic/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Codemaniac-semantic/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
