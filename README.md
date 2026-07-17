@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Codemaniac-semantic/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Codemaniac-semantic/DSA/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Codemaniac-semantic/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Codemaniac-semantic/DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Codemaniac-semantic/DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Codemaniac-semantic/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
