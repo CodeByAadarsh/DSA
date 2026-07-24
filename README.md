@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Codemaniac-semantic/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Codemaniac-semantic/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Codemaniac-semantic/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Codemaniac-semantic/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Codemaniac-semantic/DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0567-permutation-in-string) |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Codemaniac-semantic/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
