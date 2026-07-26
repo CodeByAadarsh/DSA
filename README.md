@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Codemaniac-semantic/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Codemaniac-semantic/DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codemaniac-semantic/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codemaniac-semantic/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Codemaniac-semantic/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codemaniac-semantic/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -141,4 +144,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Codemaniac-semantic/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
