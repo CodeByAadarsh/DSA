@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Codemaniac-semantic/DSA/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Codemaniac-semantic/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Codemaniac-semantic/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Codemaniac-semantic/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Codemaniac-semantic/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Codemaniac-semantic/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Codemaniac-semantic/DSA/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codemaniac-semantic/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
