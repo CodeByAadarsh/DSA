@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Codemaniac-semantic/DSA/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Codemaniac-semantic/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -173,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Codemaniac-semantic/DSA/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Codemaniac-semantic/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Codemaniac-semantic/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
