@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Codemaniac-semantic/DSA/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Codemaniac-semantic/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Codemaniac-semantic/DSA/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codemaniac-semantic/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codemaniac-semantic/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Codemaniac-semantic/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Codemaniac-semantic/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Codemaniac-semantic/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Codemaniac-semantic/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Codemaniac-semantic/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Codemaniac-semantic/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Codemaniac-semantic/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Codemaniac-semantic/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Codemaniac-semantic/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Codemaniac-semantic/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codemaniac-semantic/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Codemaniac-semantic/DSA/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Codemaniac-semantic/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
